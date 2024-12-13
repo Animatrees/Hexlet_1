@@ -72,8 +72,8 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Animatrees/Hexlet_1.git
+   cd Hexlet_1
    ```
 2. Запустите симулятор:
    ```bash
